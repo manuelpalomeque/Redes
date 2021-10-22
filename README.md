@@ -9,14 +9,16 @@ Es necesario tener instalado el programa de simulacion de redes: Cisco Packet Tr
 
 https://skillsforall.com/resources/lab-downloads
 
-###  Networking Essentials:
+####  1) NETWORKING ESSENTIALS:
           .
           
         
-###  Cybersecurity Essentials:
+####  2) CYBERSECURITY ESSENTIALS:
           Build a Home Network
 
-####a) Build a Home Network: 
-Conecte y configure dispositivos. Utilice el seguimiento de paquetes para visualizar 
-la comunicación de red
-          
+#### a) Build a Home Network: 
+En esta actividad configurare una red doméstica. Conectare y configurare cables y
+Dispositivos inalambricos. Para facilitar que los invitados se conecten a la red, también configurare una red inahalambrica
+para invitados. Cuando la red estuvo operativa, configurare el correo electrónico, transferri archivos e investige el
+servidor de correos electrónicos y los nombres de dominio. Por ultimo, utilice el seguimiento de paquetes para visualizar 
+ las comunicaciones en la red.
