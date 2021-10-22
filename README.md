@@ -14,5 +14,9 @@ https://skillsforall.com/resources/lab-downloads
           
         
 ###  Cybersecurity Essentials:
-          .
+          Build a Home Network
+
+####a) Build a Home Network: 
+Conecte y configure dispositivos. Utilice el seguimiento de paquetes para visualizar 
+la comunicación de red
           
