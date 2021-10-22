@@ -17,8 +17,8 @@ https://skillsforall.com/resources/lab-downloads
           Build a Home Network
 
 #### a) Build a Home Network: 
-En esta actividad configurare una red doméstica. Conectare y configurare cables y
-Dispositivos inalambricos. Para facilitar que los invitados se conecten a la red, también configurare una red inahalambrica
+En esta actividad configurare una red doméstica. Conecte y configurare cables y dispositivos inalambricos. Para facilitar 
+que los invitados se conecten a la red, también configurare una red inahalambrica
 para invitados. Cuando la red estuvo operativa, configurare el correo electrónico, transferri archivos e investige el
 servidor de correos electrónicos y los nombres de dominio. Por ultimo, utilice el seguimiento de paquetes para visualizar 
  las comunicaciones en la red.
