@@ -1,19 +1,18 @@
 # Redes (En progreso) 🖇️
 
 En este repositorio se encuentran ejercicios y simulaciones de REDES, basados en los cursos de "Networking Essentials"
-y "Cybersecurity Essentials" de Cisco.
-
+y "Cybersecurity Essentials" de Cisco. 
+Utilizando el programa Packet Tracer de Cisco, pude experimentar con el comportamiento de la red.
 
 ### Requisitos:
-Es necesario tener instalado el programa de simulaicion de redes: Cisco Packet Tracer
+Es necesario tener instalado el programa de simulacion de redes: Cisco Packet Tracer
+
+https://skillsforall.com/resources/lab-downloads
 
 ###  Networking Essentials:
-          Operadores Arigméticos
-          Sentencias de Condicionales
-          Operadores Logicos
+          .
+          
         
 ###  Cybersecurity Essentials:
-          Ciclo While
-          Ciclo For
-          Funciones
-          Listas
+          .
+          
