@@ -11,7 +11,10 @@ https://skillsforall.com/resources/lab-downloads
 
 ####  1) NETWORKING ESSENTIALS:
           01- Desplegar y cablear dispositivos
-          
+
+ #### a) Desplegar y cablear dispositivos: 
+Localice, implementé y conecte el cableado de varios tipos de dispositivos. Implemente una topologia del tipo estrella, 
+los dispositivos se conectan individualmente a través de un Switch. 
         
 ####  2) CYBERSECURITY ESSENTIALS:
           Build a Home Network
