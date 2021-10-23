@@ -17,7 +17,7 @@ Localice, implementé y conecte el cableado de varios tipos de dispositivos. Imp
 los dispositivos se conectan individualmente a través de un Switch. 
         
 ####  2) CYBERSECURITY ESSENTIALS:
-          Build a Home Network
+          01- Construir una red doméstica
 
 #### a) Build a Home Network: 
 En esta actividad configurare una red doméstica. Conecte y configurare cables y dispositivos inalambricos. Para facilitar 
