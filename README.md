@@ -19,9 +19,8 @@ los dispositivos se conectan individualmente a través de un Switch.
 ####  2) CYBERSECURITY ESSENTIALS:
           01- Construir una red doméstica
 
-#### a) Build a Home Network: 
-En esta actividad configurare una red doméstica. Conecte y configurare cables y dispositivos inalambricos. Para facilitar 
-que los invitados se conecten a la red, también configurare una red inahalambrica
-para invitados. Cuando la red estuvo operativa, configurare el correo electrónico, transferri archivos e investige el
-servidor de correos electrónicos y los nombres de dominio. Por ultimo, utilice el seguimiento de paquetes para visualizar 
- las comunicaciones en la red.
+#### a) Construir una red doméstica: 
+En esta actividad configure una red doméstica. Conecte y configure cables y dispositivos inalambricos. Para facilitar 
+que los invitados se conecten a la red, también configure una red inahalambrica para invitados. Cuando la red estuvo 
+operativa, configure el correo electrónico, transferri archivos e investige el servidor de correos electrónicos y
+los nombres de dominio. Por ultimo, utilice el seguimiento de paquetes para visualizar las comunicaciones en la red.
