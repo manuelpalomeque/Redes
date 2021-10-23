@@ -9,14 +9,20 @@ Es necesario tener instalado el programa de simulacion de redes: Cisco Packet Tr
 
 https://skillsforall.com/resources/lab-downloads
 
-####  1) NETWORKING ESSENTIALS:
+###  1) NETWORKING ESSENTIALS:
           01- Desplegar y cablear dispositivos
+          02- Configurar dispositivos finales
 
  #### a) Desplegar y cablear dispositivos: 
 Localice, implementé y conecte el cableado de varios tipos de dispositivos. Implemente una topologia del tipo estrella, 
 los dispositivos se conectan individualmente a través de un Switch. 
+ #### b) Configurar dispositivos finales: 
+Construi una red simple y complete la configuración básica de los dispositivos finales. Configure las direcciones 
+IP estáticas y la mascara de subred. Verifique la conectividad (comando ping y atraves del navegador). 
+Realice una configuración básica en el switch. Las luces de enlace para la conexión entre PC0 y Switch0 son rojas, ya 
+que la interfaz del conmutador se apagó, y la conexión ya no está activa.
         
-####  2) CYBERSECURITY ESSENTIALS:
+###  2) CYBERSECURITY ESSENTIALS:
           01- Construir una red doméstica
 
 #### a) Construir una red doméstica: 
