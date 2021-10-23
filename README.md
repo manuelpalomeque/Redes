@@ -10,7 +10,7 @@ Es necesario tener instalado el programa de simulacion de redes: Cisco Packet Tr
 https://skillsforall.com/resources/lab-downloads
 
 ####  1) NETWORKING ESSENTIALS:
-          .
+          01- Desplegar y cablear dispositivos
           
         
 ####  2) CYBERSECURITY ESSENTIALS:
