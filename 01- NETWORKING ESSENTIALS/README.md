@@ -19,3 +19,8 @@ a la red inalámbrica y comprobe la conectividad en el navegador web.
 Trabaje en una red simple con dos hosts y un enrutador inalámbrico. Configure los hosts, ingrese la información de la 
 dirección IP estática en la interfaz de los hosts (dirección IP y máscara de subred). Verifique que las PC puedan 
 comunicarse mediante la utilidad ping.
+
+#### **_e) Observar el flujo de datos en una LAN:_** 
+Trabaje en una red simple con dos hosts y un enrutador inalámbrico. Configure los hosts, ingrese la información de la 
+dirección IP estática en la interfaz de los hosts (dirección IP y máscara de subred). Verifique que las PC puedan 
+comunicarse mediante la utilidad ping.

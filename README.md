@@ -19,6 +19,7 @@ realizada en cada laboratorio.
           02- Configurar dispositivos finales
           03- Crear una red simple
           04- Configurar una red con IP estática
+          05- Observar el flujo de datos en una LAN 
 
         
 ###  2) CYBERSECURITY ESSENTIALS:
