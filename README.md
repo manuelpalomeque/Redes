@@ -1,7 +1,7 @@
 # **Redes (En progreso)** 🖇️
 
-En este repositorio se encuentran ejercicios y simulaciones de REDES, basados en los cursos de "Networking Essentials"
-y "Cybersecurity Essentials" de Cisco. 
+En este repositorio se encuentran ejercicios y simulaciones de REDES, basados en los cursos de "**Networking Essentials**"
+y "**Cybersecurity Essentials**" de Cisco. 
 Utilizando el programa Packet Tracer de Cisco, pude experimentar con el comportamiento de la red.
 
 ### _Requisitos_:
@@ -20,7 +20,8 @@ realizada en cada laboratorio.
           03- Configurar dispositivos finales
           04- Crear una red simple
           05- Configurar una red con IP estática
-          06- Observar el flujo de datos en una LAN 
+          06- Observar el flujo de datos en una LAN
+          07- Configurar DHCP en un enrutador inalambrico
 
         
 ###  2) CYBERSECURITY ESSENTIALS:
