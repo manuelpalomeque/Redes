@@ -16,10 +16,11 @@ realizada en cada laboratorio.
 
 ###  1) NETWORKING ESSENTIALS:
           01- Desplegar y cablear dispositivos
-          02- Configurar dispositivos finales
-          03- Crear una red simple
-          04- Configurar una red con IP estática
-          05- Observar el flujo de datos en una LAN 
+          02- Direcciones IPv4 y comunicación de red
+          03- Configurar dispositivos finales
+          04- Crear una red simple
+          05- Configurar una red con IP estática
+          06- Observar el flujo de datos en una LAN 
 
         
 ###  2) CYBERSECURITY ESSENTIALS:
