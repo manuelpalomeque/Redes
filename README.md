@@ -1,6 +1,6 @@
 # **Redes (En progreso)** 🖇️
 
-En este repositorio se encuentran ejercicios y simulaciones de REDES, basados en los cursos de "**Networking Essentials**"
+En este repositorio se encuentran ejercicios y simulaciones de **REDES**, basados en los cursos de "**Networking Essentials**"
 y "**Cybersecurity Essentials**" de Cisco. 
 Utilizando el programa Packet Tracer de Cisco, pude experimentar con el comportamiento de la red.
 
@@ -24,6 +24,7 @@ realizada en cada laboratorio.
           07- Configurar DHCP en un enrutador inalambrico
           08- Examinar NAT en un router inalámbrico
           09- Interacción con el cliente
+          10- Solicitudes Web
 
         
 ###  👉 CYBERSECURITY ESSENTIALS:
