@@ -47,3 +47,7 @@ resuelve la dirección IP de la página web y se entrega la página web.
 
 #### **_✔️ Solicitudes Web:_** 
 Analice el tráfico cliente / servidor enviado desde una PC a un servidor web al solicitar servicios web.
+
+#### **_✔️ 11- Servicios FTP:_** 
+En esta actividad me conecté al servidor FTP, cargué un archivo a un servidor FTP, le modifiqué el nombre y lo descargué
+de un servidor FTP.
