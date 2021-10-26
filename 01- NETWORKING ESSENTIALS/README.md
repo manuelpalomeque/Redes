@@ -44,3 +44,6 @@ En esta actividad, observé la interacción del cliente entre el servidor y la P
 una PC conectada directamente a un servidor configurado para suministrar servicios DNS, además de alojar una página web 
 a través de un servidor HTTP. Rastreé el flujo de tráfico que ocurre cuando se solicita una página web, cómo se 
 resuelve la dirección IP de la página web y se entrega la página web.
+
+#### **_✔️ Solicitudes Web:_** 
+Analice el tráfico cliente / servidor enviado desde una PC a un servidor web al solicitar servicios web.
