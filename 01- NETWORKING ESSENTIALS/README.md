@@ -1,4 +1,4 @@
-## **Practicos:**
+## **Laboratorios:**
 
 #### **_✔️ Desplegar y cablear dispositivos:_** 
 Localice, implementé y conecte el cableado de varios tipos de dispositivos. Implemente una topología del tipo estrella, 
@@ -38,3 +38,9 @@ inalámbrico. Cambié el rango de direcciones DHCP predeterminado y verifiqué l
 #### **_✔️ Examinar NAT en un router inalámbrico:_** 
 Configuré 4 PC para conectarse a un enrutador inalámbrico mediante DHCP. Examiné el tráfico que atraviesa la red 
 mediante NAT.
+
+#### **_✔️ Interacción con el cliente:_** 
+En esta actividad, observé la interacción del cliente entre el servidor y la PC. Utilizé una red simple que consta de 
+una PC conectada directamente a un servidor configurado para suministrar servicios DNS, además de alojar una página web 
+a través de un servidor HTTP. Rastreé el flujo de tráfico que ocurre cuando se solicita una página web, cómo se 
+resuelve la dirección IP de la página web y se entrega la página web.
