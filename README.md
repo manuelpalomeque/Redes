@@ -25,6 +25,7 @@ realizada en cada laboratorio.
           08- Examinar NAT en un router inalámbrico
           09- Interacción con el cliente
           10- Solicitudes Web
+          11- Servicios FTP
 
         
 ###  👉 CYBERSECURITY ESSENTIALS:
