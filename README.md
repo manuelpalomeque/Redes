@@ -4,7 +4,7 @@ En este repositorio se encuentran ejercicios y simulaciones de REDES, basados en
 y "**Cybersecurity Essentials**" de Cisco. 
 Utilizando el programa Packet Tracer de Cisco, pude experimentar con el comportamiento de la red.
 
-### _Requisitos_:
+### 👉 _Requisitos_:
 Es necesario tener instalado el programa de simulación de redes: Cisco Packet Tracer
 
 https://skillsforall.com/resources/lab-downloads
@@ -14,7 +14,7 @@ https://skillsforall.com/resources/lab-downloads
 Las practicas están organizadas en dos carpetas, en cada una hay un README, con una breve descripción de la tarea 
 realizada en cada laboratorio.
 
-###  1) NETWORKING ESSENTIALS:
+###  👉 NETWORKING ESSENTIALS:
           01- Desplegar y cablear dispositivos
           02- Direcciones IPv4 y comunicación de red
           03- Configurar dispositivos finales
@@ -23,8 +23,9 @@ realizada en cada laboratorio.
           06- Observar el flujo de datos en una LAN
           07- Configurar DHCP en un enrutador inalambrico
           08- Examinar NAT en un router inalámbrico
+          09- Interacción con el cliente
 
         
-###  2) CYBERSECURITY ESSENTIALS:
+###  👉 CYBERSECURITY ESSENTIALS:
           01- Construir una red doméstica
 
