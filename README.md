@@ -22,6 +22,7 @@ realizada en cada laboratorio.
           05- Configurar una red con IP estática
           06- Observar el flujo de datos en una LAN
           07- Configurar DHCP en un enrutador inalambrico
+          08- Examinar NAT en un router inalámbrico
 
         
 ###  2) CYBERSECURITY ESSENTIALS:

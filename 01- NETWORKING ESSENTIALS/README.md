@@ -1,4 +1,4 @@
-### **Practicos:**
+## **Practicos:**
 
 #### **_✔️ Desplegar y cablear dispositivos:_** 
 Localice, implementé y conecte el cableado de varios tipos de dispositivos. Implemente una topología del tipo estrella, 
@@ -34,3 +34,7 @@ flujo de datos de transmisiones ARP y pings.
 Conecté 3 PC a un enrutador inalámbrico. Cambié la configuración de DHCP a un rango de red específico. Configuré los 
 clientes para que obtengan su dirección a través de DHCP. Cambié la dirección IP predeterminada del enrutador 
 inalámbrico. Cambié el rango de direcciones DHCP predeterminado y verifiqué la conectividad.
+
+#### **_✔️ Examinar NAT en un router inalámbrico:_** 
+Configuré 4 PC para conectarse a un enrutador inalámbrico mediante DHCP. Examiné el tráfico que atraviesa la red 
+mediante NAT.
