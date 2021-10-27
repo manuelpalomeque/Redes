@@ -26,6 +26,7 @@ realizada en cada laboratorio.
           09- Interacción con el cliente
           10- Solicitudes Web
           11- Servicios FTP
+          12- Uso de Telnet y SSH
 
         
 ###  👉 CYBERSECURITY ESSENTIALS:
