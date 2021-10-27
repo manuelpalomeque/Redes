@@ -54,3 +54,7 @@ de un servidor FTP.
 
 #### **_✔️ Uso de Telnet y SSH:_** 
 Establecí una sesión remota a un enrutador usando Telnet y SSH. Verifique la conectividad.
+
+#### **_✔️ Configurar la seguridad inalámbrica básica:_** 
+En esta actividad configuré la seguridad inalámbrica básica con WPA2 Personal, para protegerla contra el acceso no 
+autorizado. 
