@@ -48,6 +48,9 @@ resuelve la dirección IP de la página web y se entrega la página web.
 #### **_✔️ Solicitudes Web:_** 
 Analice el tráfico cliente / servidor enviado desde una PC a un servidor web al solicitar servicios web.
 
-#### **_✔️ 11- Servicios FTP:_** 
+#### **_✔️ Servicios FTP:_** 
 En esta actividad me conecté al servidor FTP, cargué un archivo a un servidor FTP, le modifiqué el nombre y lo descargué
 de un servidor FTP.
+
+#### **_✔️ Uso de Telnet y SSH:_** 
+Establecí una sesión remota a un enrutador usando Telnet y SSH. Verifique la conectividad.
