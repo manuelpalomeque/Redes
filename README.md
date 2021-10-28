@@ -29,6 +29,7 @@ realizada en cada laboratorio.
           12- Uso de Telnet y SSH
           13- Configurar la seguridad inalámbrica básica
           14- Comparación de respuestas de acceso de administración dentro y fuera de banda
+          15- Navegar por el IOS 
 
         
 ###  👉 CYBERSECURITY ESSENTIALS:
