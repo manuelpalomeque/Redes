@@ -57,4 +57,9 @@ Establecí una sesión remota a un enrutador usando Telnet y SSH. Verifique la c
 
 #### **_✔️ Configurar la seguridad inalámbrica básica:_** 
 En esta actividad configuré la seguridad inalámbrica básica con WPA2 Personal, para protegerla contra el acceso no 
-autorizado. 
+autorizado.
+
+#### **_✔️ Comparación de respuestas de acceso de administración dentro y fuera de banda:_** 
+En esta actividad accedí a los dispositivos de Cisco mediante la administración dentro y fuera de banda. Establecí una 
+conexión fuera de banda, conecté el cable de la consola, accedí al enrutador y al Switch. Desde la PC, establecí una 
+conexión en banda al enrutador Este.
