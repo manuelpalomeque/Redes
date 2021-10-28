@@ -63,3 +63,8 @@ autorizado.
 En esta actividad accedí a los dispositivos de Cisco mediante la administración dentro y fuera de banda. Establecí una 
 conexión fuera de banda, conecté el cable de la consola, accedí al enrutador y al Switch. Desde la PC, establecí una 
 conexión en banda al enrutador Este.
+
+#### **_✔️ Navegar por el IOS:_** 
+Practiqué la navegación por el IOS de Cisco, incluidos diferentes modos de acceso de usuario, varios modos de 
+configuración y comandos comunes que usa con regularidad. 
+
