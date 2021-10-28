@@ -28,6 +28,7 @@ realizada en cada laboratorio.
           11- Servicios FTP
           12- Uso de Telnet y SSH
           13- Configurar la seguridad inalámbrica básica
+          14- Comparación de respuestas de acceso de administración dentro y fuera de banda
 
         
 ###  👉 CYBERSECURITY ESSENTIALS:
