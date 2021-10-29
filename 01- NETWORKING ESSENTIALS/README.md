@@ -72,3 +72,9 @@ configuración y comandos comunes que usa con regularidad.
 Los comandos show de Cisco IOS se utilizan cuando se trabaja con equipos de Cisco. En esta actividad, utilicé los 
 comandos show en un enrutador ubicado en un ISP.
 
+#### **_✔️ Implementar una conectividad básica:_** 
+En esta actividad, primero realicé las configuraciones básicas de switches. Luego, implementé la conectividad básica 
+configurando el direccionamiento IP en los switches y las PC. Cuando la configuración del direccionamiento IP se 
+completó, utilicé varios comandos show para verificar las configuraciones y usé el comando ping para verificar la 
+conectividad básica entre dispositivos.
+
