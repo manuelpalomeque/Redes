@@ -1,4 +1,4 @@
-# **Redes (En progreso)** 🖇️
+# **Redes** 🖇️
 
 En este repositorio se encuentran ejercicios y simulaciones de **REDES**, basados en los cursos de "**Networking Essentials**"
 y "**Cybersecurity Essentials**" de Cisco. 
@@ -31,6 +31,7 @@ realizada en cada laboratorio.
           14- Comparación de respuestas de acceso de administración dentro y fuera de banda
           15- Navegar por el IOS
           16- Usar los comandos Show de Cisco IOS
+          17- Implementar una conectividad basica
         
 ###  👉 CYBERSECURITY ESSENTIALS:
           01- Construir una red doméstica
