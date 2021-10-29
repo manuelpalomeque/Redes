@@ -68,3 +68,7 @@ conexión en banda al enrutador Este.
 Practiqué la navegación por el IOS de Cisco, incluidos diferentes modos de acceso de usuario, varios modos de 
 configuración y comandos comunes que usa con regularidad. 
 
+#### **_✔️ Usar los comandos Show de Cisco IOS:_** 
+Los comandos show de Cisco IOS se utilizan cuando se trabaja con equipos de Cisco. En esta actividad, utilicé los 
+comandos show en un enrutador ubicado en un ISP.
+
