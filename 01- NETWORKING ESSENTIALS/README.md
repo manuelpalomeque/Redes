@@ -78,3 +78,8 @@ configurando el direccionamiento IP en los switches y las PC. Cuando la configur
 completó, utilicé varios comandos show para verificar las configuraciones y usé el comando ping para verificar la 
 conectividad básica entre dispositivos.
 
+#### **_✔️ Configurar las respuestas iniciales de los ajustes del router:_** 
+Aquí realicé tareas básicas de configuración del enrutador. Aseguré el acceso a la CLI y al puerto de la consola 
+mediante contraseñas cifradas y de texto sin formato. También configuré mensajes para los usuarios que inician sesión 
+en el enrutador. Estos banners advierten a los usuarios no autorizados que el acceso está prohibido. 
+Finalmente, verifiqué y guardé la configuración.
