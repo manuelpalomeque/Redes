@@ -36,6 +36,7 @@ realizada en cada laboratorio.
           19- Configurar SSH
           20- Construir una red de switches y routers
           21- Uso del comando ipconfig en una red
+          22- Uso el comando ping en una red
 
         
 ###  👉 CYBERSECURITY ESSENTIALS:
