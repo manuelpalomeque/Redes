@@ -34,6 +34,8 @@ realizada en cada laboratorio.
           17- Implementar una conectividad basica
           18- Configurar las respuestas iniciales de los ajustes del router
           19- Configurar SSH
+          20-Construir una red de switches y routers 
+
         
 ###  👉 CYBERSECURITY ESSENTIALS:
           01- Construir una red doméstica
