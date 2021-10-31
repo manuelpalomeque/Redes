@@ -33,6 +33,7 @@ realizada en cada laboratorio.
           16- Usar los comandos Show de Cisco IOS
           17- Implementar una conectividad basica
           18- Configurar las respuestas iniciales de los ajustes del router
+          19- Configurar SSH
         
 ###  👉 CYBERSECURITY ESSENTIALS:
           01- Construir una red doméstica
