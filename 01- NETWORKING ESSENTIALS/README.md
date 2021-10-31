@@ -89,3 +89,8 @@ SSH debería reemplazar Telnet para las conexiones de administración. Telnet ut
 sin formato. SSH proporciona seguridad para conexiones remotas al proporcionar un cifrado sólido de todos los datos 
 transmitidos entre dispositivos. En esta actividad, protegí un conmutador remoto con cifrado de contraseña y SSH
 
+#### **_✔️ Construir una red de switches y routers:_** 
+En esta práctica completé el cableado en los equipos y configuré los dispositivos para que coincidan con la tabla de 
+direccionamiento. Luego de haber guardado las configuraciones, las verifique probando la conectividad de la red.
+Utilicé los comandos de IOS para recuperar información de los dispositivos y responder preguntas sobre el equipo de red.
+También accedí al enrutador de forma remota a través de SSH.
