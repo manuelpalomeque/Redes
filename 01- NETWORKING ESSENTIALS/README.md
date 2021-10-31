@@ -83,3 +83,9 @@ Aquí realicé tareas básicas de configuración del enrutador. Aseguré el acce
 mediante contraseñas cifradas y de texto sin formato. También configuré mensajes para los usuarios que inician sesión 
 en el enrutador. Estos banners advierten a los usuarios no autorizados que el acceso está prohibido. 
 Finalmente, verifiqué y guardé la configuración.
+
+#### **_✔️ Configurar SSH:_** 
+SSH debería reemplazar Telnet para las conexiones de administración. Telnet utiliza comunicaciones inseguras de texto 
+sin formato. SSH proporciona seguridad para conexiones remotas al proporcionar un cifrado sólido de todos los datos 
+transmitidos entre dispositivos. En esta actividad, protegí un conmutador remoto con cifrado de contraseña y SSH
+
