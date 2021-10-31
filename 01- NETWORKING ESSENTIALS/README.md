@@ -100,3 +100,7 @@ Utilicé el comando ipconfig para examinar la información de configuración de 
 conectarse a Internet con una de las cuatro computadoras. Todas las PC están configuradas con direcciones IP estáticas 
 utilizando la red 192.168.1.0 / 24. Utilicé el comando ipconfig / all para identificar qué PC está configurada 
 incorrectamente.
+
+#### **_✔️ Uso el comando ping en una red:_** 
+Utilicé el comando ping para identificar una configuración incorrecta en una PC.
+
