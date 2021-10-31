@@ -94,3 +94,9 @@ En esta práctica completé el cableado en los equipos y configuré los disposit
 direccionamiento. Luego de haber guardado las configuraciones, las verifique probando la conectividad de la red.
 Utilicé los comandos de IOS para recuperar información de los dispositivos y responder preguntas sobre el equipo de red.
 También accedí al enrutador de forma remota a través de SSH.
+
+#### **_✔️ Uso del comando ipconfig en una red:_** 
+Utilicé el comando ipconfig para examinar la información de configuración de IP en un host, ya que no es posible
+conectarse a Internet con una de las cuatro computadoras. Todas las PC están configuradas con direcciones IP estáticas 
+utilizando la red 192.168.1.0 / 24. Utilicé el comando ipconfig / all para identificar qué PC está configurada 
+incorrectamente.
