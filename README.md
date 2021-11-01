@@ -37,6 +37,7 @@ realizada en cada laboratorio.
           20- Construir una red de switches y routers
           21- Uso del comando ipconfig en una red
           22- Uso el comando ping en una red
+          23- Solucionar problemas de una conexión inalámbrica
 
         
 ###  👉 CYBERSECURITY ESSENTIALS:
