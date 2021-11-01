@@ -38,6 +38,7 @@ realizada en cada laboratorio.
           21- Uso del comando ipconfig en una red
           22- Uso el comando ping en una red
           23- Solucionar problemas de una conexión inalámbrica
+          24- Desafio de integracion de habilidades
 
         
 ###  👉 CYBERSECURITY ESSENTIALS:
