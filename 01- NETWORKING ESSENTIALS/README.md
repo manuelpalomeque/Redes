@@ -104,3 +104,6 @@ incorrectamente.
 #### **_✔️ Uso el comando ping en una red:_** 
 Utilicé el comando ping para identificar una configuración incorrecta en una PC.
 
+#### **_✔️ Solucionar problemas de una conexión inalámbrica:_** 
+Identifiqué y solucioné la configuración incorrecta de un dispositivo inalámbrico.
+
