@@ -107,3 +107,8 @@ Utilicé el comando ping para identificar una configuración incorrecta en una P
 #### **_✔️ Solucionar problemas de una conexión inalámbrica:_** 
 Identifiqué y solucioné la configuración incorrecta de un dispositivo inalámbrico.
 
+#### **_✔️ Desafio de integración de habilidades:_** 
+Esta actividad se incluye muchas de las habilidades que he adquirido durante el curso de Networking Essentials. 
+Primero, configuré las direcciones IP en los dispositivos de red en una red simplificada. En segundo lugar, configuraré
+las configuraciones inalámbricas en la red doméstica. Finalmente, verifiqué su implementación probando la conectividad 
+de un extremo a otro accediendo al servidor web y al enrutador R1 usando SSH en la red simplificada.
