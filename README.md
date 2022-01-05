@@ -1,7 +1,7 @@
 # **Redes** 🖇️
 
 En este repositorio se encuentran ejercicios y simulaciones de **REDES**, basados en el curso de "**Networking Essentials**"
-y "**Cybersecurity Essentials**" de Cisco. 
+ de Cisco. 
 Utilizando el programa Packet Tracer de Cisco, pude experimentar con el comportamiento de la red.
 
 ### 👉 _Requisitos_:
