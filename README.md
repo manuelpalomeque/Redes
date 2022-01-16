@@ -1,6 +1,6 @@
 # **Redes** 🖇️
 
-En este repositorio se encuentran ejercicios y simulaciones de **REDES**, basados en los cursos de "**Networking Essentials**"
+En este repositorio se encuentran ejercicios y simulaciones de **REDES**, basados en el curso de "**Networking Essentials**"
 y "**Cybersecurity Essentials**" de Cisco. 
 Utilizando el programa Packet Tracer de Cisco, pude experimentar con el comportamiento de la red.
 
@@ -11,7 +11,7 @@ https://skillsforall.com/resources/lab-downloads
 
 
 
-Las practicas están organizadas en dos carpetas, en cada una hay un README, con una breve descripción de la tarea 
+Las practicas están organizadas en una carpeta, con un README donde hay una breve descripción de la tarea 
 realizada en cada laboratorio.
 
 ###  👉 NETWORKING ESSENTIALS:
@@ -39,8 +39,4 @@ realizada en cada laboratorio.
           22- Uso el comando ping en una red
           23- Solucionar problemas de una conexión inalámbrica
           24- Desafio de integracion de habilidades
-
-        
-###  👉 CYBERSECURITY ESSENTIALS:
-          01- Construir una red doméstica
 
